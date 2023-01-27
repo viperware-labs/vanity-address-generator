@@ -1,3 +1,5 @@
+# Written by https://twitter.com/0xBold (https://github.com/viperware-labs)
+     
 # Built in python libraries
 import secrets
 import csv
